@@ -1,0 +1,10 @@
+id: bookRoom1
+
+fields:
+  pageTitle: Room1 Booking
+
+placeholders:
+   jss-navbar:
+     - componentName: Navbar
+   jss-roomform:
+     - componentName: OurForm

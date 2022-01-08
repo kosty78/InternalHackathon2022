@@ -1,0 +1,8 @@
+id: free_car
+displayName: Free Car
+
+template: service_template
+fields:
+  title: Free Car Service
+  serviceIcon: /data/media/img/sc_logo.png
+  serviceInfo: Free car as you go

@@ -1,0 +1,26 @@
+id: room-page
+
+fields:
+  pageTitle: Our Rooms
+
+placeholders:
+   jss-navbar:
+     - componentName: Navbar
+   jss-main:
+     - componentName: Hero
+       fields:
+        title: Gangs of Altudo
+        subtitle: Welcomes you to our Rooms
+        buttontext: Back
+        buttonurl: /
+   jss-ourroom:
+     - componentName: Hero2  
+       fields:
+        title: Prime Rooms
+        price: ₹1000
+        buttontext: Book Now
+        buttonurl: /bookRoom1
+        title2: Deluxe Rooms
+        price2: ₹2000
+        buttontext2: Book Now
+        buttonurl2: /bookRoom2
