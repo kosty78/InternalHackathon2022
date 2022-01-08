@@ -1,2 +1,1 @@
-# InternalHackathon2022
-internal hackathon
+Altudo Hackathon 2022
