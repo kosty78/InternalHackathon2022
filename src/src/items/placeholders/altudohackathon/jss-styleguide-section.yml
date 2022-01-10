@@ -1,0 +1,56 @@
+﻿---
+ID: "87cc7b54-531c-5883-899e-56f4e8bd6bd5"
+Parent: "1828f180-a3b2-5419-9d3e-39f7a6d8998c"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/altudohackathon/jss-styleguide-section"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "jss-styleguide-section"
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Value: |
+    {967CCCD6-6744-5F09-BCE6-C3F02E4CB219}
+    {9029F33C-3874-5856-A46A-53343BBF10A2}
+    {F51D9341-725E-59F6-BFB4-1C1EF40A97E4}
+    {826ED0A1-73DB-5F0F-B8ED-7188C5C3FB66}
+    {70D66C17-8935-59B6-95FA-E515F2E27586}
+    {4A405E6F-50C1-5EAC-B3F3-BD2FC81DEE16}
+    {6E12BFE4-A374-52BB-99C4-8BFE42276E01}
+    {358AEFD3-EC98-5E41-8824-93BA96045402}
+    {D041B541-3F72-5571-84BE-B07B6E66EEB0}
+    {47B9DF2F-14CF-5387-8CD7-189ADC69B3F0}
+    {7C97450A-3726-51E3-AA11-D711E9715871}
+    {7E34B5B4-31BA-5565-A853-FEB60D9DD216}
+    {C2894B95-46BA-5484-97B4-12C28DA2C199}
+    {EC5D00FE-F7A7-5553-B5F6-5F277DF62787}
+    {0BF8BAC4-8606-51EF-B540-C2DA2FF82A98}
+    {A2543779-DFD4-519C-A434-91EC6019EC22}
+    {85F006B6-70AE-5247-AB31-E32A7EAA77C4}
+    {5FFB380E-A899-5870-B772-D58A430715B5}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220107T181627Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e58abd3-9ba1-404e-be73-4f34dc5c524b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220107T181632Z

@@ -1,0 +1,30 @@
+﻿---
+ID: "194bfa6c-1048-5b6a-9b43-2f104db2d994"
+Parent: "057faf2e-bcc9-5ed0-bacc-762bd23fa637"
+Template: "e0c35026-7504-5cf7-8109-9e7b201948e6"
+Path: "/sitecore/content/AltudoHackathon/home/styleguide/Page Components/styleguide-jss-styleguide-layout-34A6553C-81DE-5CD3-989E-853F6CB6DF8C-0-Styleguide-Section-3"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-Section-3"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220107T181641Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94d89bb9-ea55-4976-a34f-66142e818cdb"
+    - ID: "b235ee5b-5406-5772-8b8d-cb1fa2ec0f44"
+      Hint: heading
+      Value: Sitecore Patterns
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220107T181641Z

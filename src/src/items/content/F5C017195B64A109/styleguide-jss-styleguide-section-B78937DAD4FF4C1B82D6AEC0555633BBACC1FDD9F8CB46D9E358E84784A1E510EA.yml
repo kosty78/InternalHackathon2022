@@ -1,0 +1,38 @@
+﻿---
+ID: "97706cc5-f29c-54f6-8fa7-6d213dfc733d"
+Parent: "057faf2e-bcc9-5ed0-bacc-762bd23fa637"
+Template: "ca2cb1ec-8ae2-59da-a835-3cca4bd090db"
+Path: "/sitecore/content/AltudoHackathon/home/styleguide/Page Components/styleguide-jss-styleguide-section-B78937DAD4FF4C1B82D6AEC0555633BBACC1FDD9F8CB46D9E358E84784A1E510EA"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Image-4"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "064749ab-d526-59f4-aaa6-38fb256da44c"
+      Hint: sample2
+      Value: |
+        <image mediaid="{6ADBA0DE-636C-5498-B1B6-0AF05C1B5E93}" alt="Sitecore JSS Logo" />
+    - ID: "0e5a45cb-b45f-5839-ac06-b546c742e1f9"
+      Hint: heading
+      Value: Image
+    - ID: "20f10537-a5ce-5509-b7b2-a547dce52532"
+      Hint: sample1
+      Value: |
+        <image mediaid="{DD05E4F9-DF3A-58C1-94B5-2C5B2154ED36}" alt="Sitecore Logo" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220107T181636Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c426af28-c934-4148-82ba-57f5282e59b0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220108T202728Z

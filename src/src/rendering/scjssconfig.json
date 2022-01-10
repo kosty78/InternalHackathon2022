@@ -1,0 +1,9 @@
+{
+  "sitecore": {
+    "instancePath": "..\\..\\docker\\deploy\\platform\\",
+    "apiKey": "E7345F30-667E-4272-820E-F557C40D0C2E",
+    "deploySecret": "A72DE1AED36F44219548554189A2113E",
+    "deployUrl": "https://cm.altudohackathon.localhost/sitecore/api/jss/import",
+    "layoutServiceHost": "https://cm.altudohackathon.localhost"
+  }
+}

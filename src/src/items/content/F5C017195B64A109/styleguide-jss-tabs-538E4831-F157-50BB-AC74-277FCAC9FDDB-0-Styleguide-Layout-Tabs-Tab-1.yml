@@ -1,0 +1,33 @@
+﻿---
+ID: "ddd69129-6f58-5e31-9b2c-c392eadf22ee"
+Parent: "057faf2e-bcc9-5ed0-bacc-762bd23fa637"
+Template: "95016b35-b9ca-54d4-a564-6801920e066d"
+Path: "/sitecore/content/AltudoHackathon/home/styleguide/Page Components/styleguide-jss-tabs-538E4831-F157-50BB-AC74-277FCAC9FDDB-0-Styleguide-Layout-Tabs-Tab-1"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-Layout-Tabs-Tab-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220107T181640Z
+    - ID: "597d9795-bc63-50d1-91dc-1e74dae8b44d"
+      Hint: title
+      Value: Tab 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f780a0e-3357-4ebc-80ab-5fc4985dd942"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220107T181640Z
+    - ID: "f085a976-bc84-5eb4-ad47-f5761ff1fce9"
+      Hint: content
+      Value: "<p>Tab 1 contents!</p>"

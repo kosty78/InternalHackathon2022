@@ -1,0 +1,35 @@
+﻿---
+ID: "f44fbb39-2131-556d-9bf2-7c89a9aa898e"
+Parent: "1b99c1ce-3eeb-5f1c-809e-b3f85eec4b1b"
+Template: "d38b7b47-7633-5e70-8672-4d589eefc0b5"
+Path: "/sitecore/content/AltudoHackathon/home/graphql/sample-1/Page Components/sample-1-jss-main-ContentBlock-1"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "ContentBlock-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "11a53a92-7212-500d-bc6c-035873a49574"
+      Hint: content
+      Value: |
+        <p>A child route here to illustrate the power of GraphQL queries. <a href="/graphql">Back to GraphQL route</a></p>
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220107T181635Z
+    - ID: "64ba9a77-0e07-5a5f-b378-32ae30fa3021"
+      Hint: heading
+      Value: GraphQL Sample 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "774718e6-9784-4e43-afc6-b9aeca6b5d9d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220107T181635Z
