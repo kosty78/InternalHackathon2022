@@ -1,0 +1,52 @@
+﻿---
+ID: "f1ea66ae-0ead-52ab-88e7-6df98d9a572c"
+Parent: "057faf2e-bcc9-5ed0-bacc-762bd23fa637"
+Template: "19541db2-0ecf-59b0-af28-257f36f7fdd0"
+Path: "/sitecore/content/AltudoHackathon/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7985C8DEA10AB2C5CC77ABC90CF4126F21840592E09B2C6DB07D84D314CDCE0D4"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ContentList-11"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5a45cb-b45f-5839-ac06-b546c742e1f9"
+      Hint: heading
+      Value: Content List
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220107T181639Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be58ecb1-a4f7-4c2e-ac38-f1bffe98c1e7"
+    - ID: "a14f4343-5fbe-5ad6-87b2-8d882da24aba"
+      Hint: localContentList
+      Value: |
+        {15A52247-19CB-546D-91E3-BFEF3FF83B23}
+        {245006B9-3E8E-5BDA-BC7C-F39F45A39A67}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "c978aa63-d330-5d39-b928-8267fbec099b"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Content Lists are a way to reference zero or more other content items.
+            Referenced items may be shared.
+            To reference a single content item, use an <em>Item Link</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Content List fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220107T181639Z
+    - ID: "e69ecb95-cdd9-5d65-b2b5-1b65769182fd"
+      Hint: sharedContentList
+      Value: |
+        {BA55BEC6-DE63-5A16-B2E2-56EA140DA941}
+        {A1DACC71-FE09-5500-AF80-C7B24B426CAF}

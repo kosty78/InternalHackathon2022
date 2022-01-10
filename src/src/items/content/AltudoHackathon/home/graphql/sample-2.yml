@@ -1,0 +1,43 @@
+﻿---
+ID: "9652ad5d-613a-5dfe-bcd1-5df97ff593d6"
+Parent: "db182b30-d013-5c5d-9218-7475aaced553"
+Template: "e535271c-6d0c-5ac0-a4fe-a895ee82de0f"
+Path: "/sitecore/content/AltudoHackathon/home/graphql/sample-2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5C424448-2B30-5910-ABE7-5021B762D542}"
+              p:after="*[1=2]"
+              s:rname="ContentBlock"
+              s:ds="{B1A22266-DAD5-502E-9850-057F27B6BEA0}"
+              s:id="{EA6B6462-9056-5598-96B9-0467324E595B}"
+              s:par=""
+              s:ph="/jss-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220107T181635Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff90b738-03cf-44a9-b5a6-b67e782bf297"
+    - ID: "ae4441bd-7cd9-523e-bfac-b80047b8616a"
+      Hint: pageTitle
+      Value: Sample 2 Page Title
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220107T181636Z

@@ -1,0 +1,30 @@
+﻿---
+ID: "ba55bec6-de63-5a16-b2e2-56ea140da941"
+Parent: "9d5b4a22-007d-5259-b6ea-37a53bfd4e8e"
+Template: "013bd5e2-fb31-5978-b823-cd2da508dde8"
+Path: /sitecore/content/AltudoHackathon/Content/Styleguide/ContentListField/Item1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Styleguide Content List Item 1 (Shared)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220107T181633Z
+    - ID: "521fbe31-5076-5461-93f6-6dbb7eb94be0"
+      Hint: textField
+      Value: ContentList Demo (Shared) Item 1 Text Field
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44e6af69-c9fe-4dad-8559-bc4385b1e351"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220107T181633Z

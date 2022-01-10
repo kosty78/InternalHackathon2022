@@ -1,0 +1,39 @@
+﻿---
+ID: "1f2b12fa-bfaf-5f45-a553-c1eb68aa6d65"
+Parent: "057faf2e-bcc9-5ed0-bacc-762bd23fa637"
+Template: "92407faf-bb1a-5dcf-bd41-dfff51ac92d8"
+Path: "/sitecore/content/AltudoHackathon/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7E97E101B0FCBC1F40C1527ACC4E2F2BE46DD0859A3192F5EE04B0311CCD7A597"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-RichText-3"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5a45cb-b45f-5839-ac06-b546c742e1f9"
+      Hint: heading
+      Value: Rich Text
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220107T181636Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "83450be3-c7cd-4026-b427-2415ec958678"
+    - ID: "9ce9142e-2b29-5b06-b2d4-1340b0c4ae87"
+      Hint: sample2
+      Value: |
+        <p>Another sample rich text field, using options. Keep markup entered in rich text fields as simple as possible - ideally bare tags only (no classes). Adding a wrapping class can help with styling within rich text blocks.</p>
+        <marquee>But you can use any valid HTML in a rich text field!</marquee>
+        
+    - ID: "a764fd9f-6e51-5634-b9cc-41b02b39a146"
+      Hint: sample
+      Value: <p>This is a sample rich text field. <mark>HTML is always supported.</mark> In Sitecore, editors will see a WYSIWYG editor for these fields.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220107T181636Z

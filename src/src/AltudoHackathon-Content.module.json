@@ -1,0 +1,16 @@
+{
+    "namespace": "AltudoHackathon-Content",
+    "references": [ "AltudoHackathon" ],
+    "items": {
+        "includes": [
+            {
+                "name": "content",
+                "path": "/sitecore/content/AltudoHackathon"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/altudohackathon"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "namespace": "AltudoHackathon",
+    "references": [ "InitItems" ],
+    "items": {
+        "includes": [
+            {
+                "name": "layouts",
+                "path": "/sitecore/layout/Layouts/Project/altudohackathon"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/altudohackathon"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/altudohackathon"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/altudohackathon"
+            }
+        ]
+    }
+}

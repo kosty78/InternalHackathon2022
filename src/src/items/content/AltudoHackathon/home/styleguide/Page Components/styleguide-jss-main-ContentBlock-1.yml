@@ -1,0 +1,36 @@
+﻿---
+ID: "88b2f252-3e98-5f4d-9360-e995a3ebe9ce"
+Parent: "057faf2e-bcc9-5ed0-bacc-762bd23fa637"
+Template: "d38b7b47-7633-5e70-8672-4d589eefc0b5"
+Path: "/sitecore/content/AltudoHackathon/home/styleguide/Page Components/styleguide-jss-main-ContentBlock-1"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "ContentBlock-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "11a53a92-7212-500d-bc6c-035873a49574"
+      Hint: content
+      Value: |
+        <p>This is a live set of examples of how to use JSS. For more information on using JSS, please see <a href="https://jss.sitecore.com" target="_blank" rel="noopener noreferrer">the documentation</a>.</p>
+        <p>The content and layout of this page is defined in <code>/data/routes/styleguide/en.yml</code></p>
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220107T181636Z
+    - ID: "64ba9a77-0e07-5a5f-b378-32ae30fa3021"
+      Hint: heading
+      Value: JSS Styleguide
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd9ce22b-7d09-4817-abdc-709715d4e025"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220107T181636Z
