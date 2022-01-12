@@ -49,6 +49,11 @@ so that it can be connected with any Sitecore Instance.
 		
 
 --WORKING--
-
+	To run jss app directly from visual studio code.
+	1. check the current directory is pointed to hackathon-app in terminal
+	2. Run:
+			jss start
+			
+			
 Please refer to our Demo Video.
 
