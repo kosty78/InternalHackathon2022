@@ -1,0 +1,10 @@
+id: thankyou
+
+fields:
+  pageTitle: Thank You
+
+placeholders:
+   jss-navbar:
+     - componentName: Navbar
+   jss-thanks:
+     - componentName: Thanks

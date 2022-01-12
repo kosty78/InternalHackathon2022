@@ -1,0 +1,8 @@
+id: endless_hiking
+displayName: Endless Hiking
+
+template: service_template
+fields:
+  title: Endless Hiking
+  serviceIcon: /data/media/img/sc_logo.png
+  serviceInfo: This is our premium Service
